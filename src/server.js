@@ -31,7 +31,7 @@ const setupServer = () => {
   app.use('/contacts', contactRouter);
 
   app.get('/', (req, res) => {
-    res.send('Hello from the server!');
+    res.send('Server is running! Token bilgileri ile işleme devam edilebilir.');
   });
 
   app.use(notFoundHandler);

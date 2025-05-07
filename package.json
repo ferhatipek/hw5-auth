@@ -10,7 +10,7 @@
     "build": "npm run build-docs"
   },
   "keywords": [],
-  "author": "Sebnem Cetin <sebkay200@hotmail.com>",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
